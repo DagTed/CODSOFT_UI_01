@@ -21,6 +21,7 @@ Use clear, concise labels and placeholders for form fields.
 Features:
 Social login options (e.g., Google, Facebook, Apple) for quick signup.
 Autofill support for fields like email and password.
+Switch between light and dark mode
 
 Outcome
 Successfully completed the mobile signup flow design with a focus on simplicity and usability.
